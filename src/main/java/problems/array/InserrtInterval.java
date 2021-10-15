@@ -6,7 +6,7 @@ import java.util.LinkedList;
 
 public class InserrtInterval {
     // LeetCode 57 - Insert Interval
-    // https://leetcode.com/problems/insert-interval/
+    // https://leetcode.com/problems/insert-interval
 
     public static void main(String[] args) {
         int[][] intervals = {{1,3},{6,9}};
